@@ -1,8 +1,8 @@
-# 📝 CLI To-Do List
+# CLI To-Do List
 
 A simple, terminal-based To-Do List application written in pure Python.
 
-## 🚀 Features
+##Features
 * **Add Tasks:** Input new tasks into a dynamic list directly from the command line.
 * **View Tasks:** Display all current tasks currently stored in memory.
 * **Complete & Delete:** Remove finished tasks from the list. It includes case-insensitive matching (`.lower()`) so tasks are found and deleted regardless of capitalization.
